@@ -5,7 +5,8 @@ export default function handler(req, res) {
   const image_url =
     //"https://raw.githubusercontent.com/LearnWeb3DAO/NFT-Collection/main/my-app/public/cryptodevs/";
 //	 "https://raw.dtsarun.com/WhitelistDapp/main/NFT-Collection-react/my-app/public/cryptodevs/";
-	"https://github.com/dtsarun/WhitelistDapp/tree/main/NFT-Collection-react/my-app/public/cryptodevs/";
+//	"https://github.com/dtsarun/WhitelistDapp/tree/main/NFT-Collection-react/my-app/public/cryptodevs/";
+     "https://raw.githubusercontent.com/dtsarun/WhitelistDapp/main/NFT-Collection-react/my-app/public/cryptodevs/";
 
   // The api is sending back metadata for a Crypto Dev
   // To make our collection compatible with Opensea, we need to follow some Metadata standards
